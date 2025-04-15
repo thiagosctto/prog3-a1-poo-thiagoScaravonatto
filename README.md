@@ -25,24 +25,24 @@ Sistema de autenticação de usuários desenvolvido em PHP puro com orientação
 
 ## Estrutura do Projeto
 ├── classes/ # Classes PHP do sistema <br/>
-├── index.php # Redireciona para login
-├── cadastro.php # Página de cadastro
-├── login.php # Página de login
-├── dashboard.php # Área restrita
-├── logout.php # Encerra a sessão
-└── README.md # Documentação
+├── index.php # Redireciona para login <br/>
+├── cadastro.php # Página de cadastro <br/>
+├── login.php # Página de login <br/>
+├── dashboard.php # Área restrita <br/>
+├── logout.php # Encerra a sessão <br/>
+└── README.md # Documentação <br/>
 
 ## Funcionalidades Implementadas
 
-└──Cadastro de usuários com validação
-└──Login com verificação de credenciais
-└──Dashboard protegido por sessão
-└──Funcionalidade "Lembrar e-mail" com cookies
-└──Logout seguro
-└──Uso de password_hash() e password_verify()
-└──Proteção de rotas por sessão
-└──Mensagens de feedback para o usuário
-└──Organização em classes (Usuario, Sessao, Autenticador)
+└──Cadastro de usuários com validação <br/>
+└──Login com verificação de credenciais <br/>
+└──Dashboard protegido por sessão <br/>
+└──Funcionalidade "Lembrar e-mail" com cookies <br/>
+└──Logout seguro <br/>
+└──Uso de password_hash() e password_verify() <br/>
+└──Proteção de rotas por sessão <br/>
+└──Mensagens de feedback para o usuário <br/>
+└──Organização em classes (Usuario, Sessao, Autenticador) <br/>
 
 ![image](https://github.com/user-attachments/assets/807da4de-f653-4b3c-85d4-a67bef74b236)
 
