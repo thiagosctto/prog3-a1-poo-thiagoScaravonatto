@@ -24,7 +24,7 @@ Sistema de autenticação de usuários desenvolvido em PHP puro com orientação
 4. Acesse no navegador: `http://localhost/index.php/`
 
 ## Estrutura do Projeto
-├── classes/ # Classes PHP do sistema
+├── classes/ # Classes PHP do sistema <br/>
 ├── index.php # Redireciona para login
 ├── cadastro.php # Página de cadastro
 ├── login.php # Página de login
